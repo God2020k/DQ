@@ -190,7 +190,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <a href='https://t.me/movie_time_botonly'>{file_name}</a>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
 ╭─────── • ◆ • ───────╮
@@ -198,8 +198,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @movie_time_botonly
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @TRUMBOTCHAT
+▫️ ᴄʜᴀɴɴᴇʟ : @
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -240,4 +240,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    LOGO = """𝕋𝕣𝕦𝕞𝔹𝕠𝕥𝕤"""
+    LOGO = """Professor"""
